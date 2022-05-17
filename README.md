@@ -5,7 +5,6 @@
 ScreenKap is a simple screen recorder app for Android.
 It uses [MediaStore](https://developer.android.com/reference/android/provider/MediaStore) or [Storage Access Framework](https://developer.android.com/guide/topics/providers/document-provider) API's to access files so it doesn't require the storage permission.
 
-<a href="https://play.google.com/store/apps/details?id=com.ibashkimi.screenrecorder"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200px"/></a>
 
 ## Screenshots
 |<img src="screenshots/home_light.png" width="250">|<img src="screenshots/home_dark.png" width="250">|<img src="screenshots/notification.png" width="250">|
